@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jose Luis and I'm a Software Engineer, from Mexico</h2>
+<h2 align="left">Hi 👋! My name is Jose Luis and I'm a Computer Systems Engineer, from Mexico</h2>
 
 ###
 
