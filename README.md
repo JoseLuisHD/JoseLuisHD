@@ -38,8 +38,12 @@
 ## Certificates & Badges
 
 <div align="left">
+  <a href="https://www.credly.com/badges/1521d248-0fae-4cd3-ab33-625f2cdbe6ab">
     <img src="https://images.credly.com/size/340x340/images/145a5de8-7390-4d57-b4cb-a10e2f9394e2/image.png" height="90" alt="AWS"/>
-   <img src="https://images.credly.com/size/340x340/images/ff723f85-6709-4dc5-ace5-37dd43d24a68/Banking-Industry-Jumpstart.png" height="90" alt="IBM"/>
+  </a>
+  <a href="https://www.credly.com/badges/b39c65ba-b616-414d-940e-33d55aa27fa9">
+    <img src="https://images.credly.com/size/340x340/images/cb5180ef-bdd3-4c15-a632-b2d8388c221d/Banking-Industry-Jumpstart.png" height="90" alt="IBM"/>
+  </a>
 </div>
 
 ###
