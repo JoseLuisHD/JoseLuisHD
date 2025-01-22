@@ -1,8 +1,7 @@
 # 👋 Hi there, I'm Jose Luis H.D
 
 ## 🚀 About Me
-Software & Cloud Engineer passionate about building scalable cloud solutions and robust backend systems. 
-
+Software & Cloud Engineer | Backend | Azure Administrator | Azure Cybersecurity | Cloud Solutions Architect | DevOps
 ## 💻 Technical Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -11,3 +10,14 @@ Software & Cloud Engineer passionate about building scalable cloud solutions and
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
+## 📜 Certifications
+<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Microsoft Azure Fundamentals" width="150"/>
+
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseLuisHD&show_icons=true&theme=dracula)
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/JoseLuisHD/JoseLuisHD/output/snake.svg" alt="Snake animation" />
