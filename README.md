@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Jose Luis H.D
 
-⚙️ Computer Systems Engineer specialized in Backend Development, Cloud Cybersecurity, and Penetration Testing. Committed to creating robust architectures and identifying vulnerabilities to strengthen digital environments. Expert in developing scalable backend systems, security assessments, penetration testing, and protection solutions for cloud infrastructures. Always seeking new challenges that allow me to apply my knowledge to create more secure, efficient, and resilient systems.
+⚙️ Computer Systems Engineer specialized in Backend, Cybersecurity, and Cloud. Committed to creating robust architectures and identifying vulnerabilities to strengthen digital environments. Expert in developing scalable backend systems, security assessments, penetration testing, and protection solutions for cloud infrastructures. Always seeking new challenges that allow me to apply my knowledge to create more secure, efficient, and resilient systems.
 
 As a detail-oriented professional, I combine strong analytical thinking with effective communication abilities to transform complex business requirements into elegant technical solutions. 🎯
 
