@@ -1,8 +1,11 @@
-# 👋 Hi there, I'm Jose Luis H.D
+# Hi there 👋
 
-⚙️ Computer Systems Engineer specialized in Backend, ML/AI, and Cloud. Committed to creating robust architectures and implementing intelligent solutions to strengthen digital environments. Expert in developing scalable backend systems, machine learning models, AI algorithms, and sustainable solutions for cloud infrastructures. Always seeking new challenges that allow me to apply my knowledge to create more secure, efficient, and resilient systems.
+I'm a Robotics Engineer with a strong focus on aerospace and aeronautics. I'm passionate about engineering, technology, and building things that solve real-world problems, while continuously learning and exploring new ideas.
 
-As a detail-oriented professional, I combine strong analytical thinking with effective communication abilities to transform complex business requirements into elegant technical solutions. 🎯
+## Experience
 
+I've contributed to engineering teams at Hydreon (Lifeboat), IBM, and NEORIS, building software and delivering solutions across a variety of projects.
 
-<img src="https://raw.githubusercontent.com/JoseLuisHD/JoseLuisHD/output/snake.svg" alt="Snake animation" />
+## Open Source
+
+This is where I share my work: open-source libraries, personal projects, experiments, and ideas that I find worth building and sharing.
