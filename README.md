@@ -1,6 +1,7 @@
 # Hi there 👋
 
-I'm a Robotics Engineer with a strong focus on aerospace and aeronautics. I'm passionate about engineering, technology, and building things that solve real-world problems, while continuously learning and exploring new ideas.
+I'm a Robotics Engineer specializing in aerospace and aeronautics, driven by curiosity and a passion for engineering. In my spare time, I enjoy exploring game development—from graphics programming and physics simulation to game engine internals—along with game testing, open-source projects, and ethical hacking.
+
 
 ## Experience
 
